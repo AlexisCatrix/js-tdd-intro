@@ -1,0 +1,11 @@
+#mainContainer {
+  padding: 10vh;
+}
+
+#label{
+  padding: 2vw;
+}
+#stringOutput {
+  padding: 10vh;
+  font-size: 1.5em;
+}
